@@ -8,7 +8,7 @@
 
 
 
-- 👨‍💻 All of my projects are available [@Godson-Thomas](https://github.com/Godson-Thomas)
+<h3 font-size="20" align="center">- 👨‍💻 All of my projects are available [@Godson-Thomas](https://github.com/Godson-Thomas)</h3>
 
 
 
