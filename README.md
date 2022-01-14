@@ -67,6 +67,3 @@
 
 ------
 
-Credit: [Godson-Thomas](https://github.com/Godson-Thomas)
-
-Last Edited on: 09/09/2021
