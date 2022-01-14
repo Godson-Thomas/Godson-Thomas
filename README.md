@@ -48,12 +48,6 @@
 
 ----
 
-<div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
-
-[![](https://github-readme-stats.vercel.app/api?username=Godson-Thomas&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Godson-Thomas)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=Godson-Thomas&theme=material-palenight)](https://github.com/Godson-Thomas)
-</div>
 
 ----
 
@@ -63,6 +57,16 @@
 </p>
 
 ------
+
+
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=Godson-Thomas&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Godson-Thomas)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Godson-Thomas&theme=material-palenight)](https://github.com/Godson-Thomas)
+</div>
+
+
 Credit: [Godson-Thomas](https://github.com/Godson-Thomas)
 
 Last Edited on: 09/09/2021
