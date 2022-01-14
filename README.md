@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Godson Thomas<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-<h3 font-size="20" align="center">⚡ A Technophile 👨‍💻 All of my projects are available here</h3>
+<h3 font-size="20" align="center">⚡ A Technophile 👨‍💻 My projects are available here</h3>
 
 
 
