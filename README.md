@@ -23,7 +23,7 @@
 
 <div style="margin-top:10px" align="center">
   <div>
-    <a  href="linkedin.com/in/godson-thomas" target="_blank">
+    <a  href="https://www.linkedin.com/in/godson-thomas" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
     </a>
     <a href="https://twitter.com/_godsonthomas" target="_blank">
