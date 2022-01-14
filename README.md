@@ -6,13 +6,12 @@
 <h3 font-size="20" align="center">A student from India.</h3>
 
 
-- 🌱 I’m currently learning **To be Extroverted** <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
+<img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 
 - 👨‍💻 All of my projects are available [@Godson-Thomas](github.com/Godson-Thomas)
 
-- 💬 Ask me about **Technology and Philosophy 😆**
+- 💬 Ask me about **Technology😆**
 
-- ⚡ Fun fact **Coding is a passion and not profession.**
 
 
 ---
