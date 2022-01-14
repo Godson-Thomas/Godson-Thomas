@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available [@Godson-Thomas](github.com/Godson-Thomas)
 
-- 💬 Ask me about **Technology😆**
+- 💬 **A Technophile**
 
 
 
