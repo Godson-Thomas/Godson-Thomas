@@ -1,5 +1,5 @@
 <p align="center">
-  <img style="width:17rem; height:auto" src="https://dribbble.com/shots/1712148-Coder-gif?utm_source=Clipboard_Shot&utm_campaign=unabellapalla&utm_content=Coder%20%5Bgif%5D&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=unabellapalla&utm_content=Coder%20%5Bgif%5D&utm_medium=Social_Share"/>
+  <img style="width:17rem; height:auto" src="https://cdn.dribbble.com/users/235897/screenshots/1712148/media/49c8018062cc43eab67b801c6cb459e8.gif"/>
 </p>
 
 <h1 align="center">Hi, I'm Godson Thomas<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
