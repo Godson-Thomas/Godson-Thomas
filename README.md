@@ -49,14 +49,7 @@
 ----
 
 
-----
 
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
-
-------
 
 
 <div align="center">
@@ -66,6 +59,14 @@
 [![](https://github-readme-streak-stats.herokuapp.com/?user=Godson-Thomas&theme=material-palenight)](https://github.com/Godson-Thomas)
 </div>
 
+----
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+
+------
 
 Credit: [Godson-Thomas](https://github.com/Godson-Thomas)
 
